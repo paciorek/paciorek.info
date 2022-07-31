@@ -1,2 +1,2 @@
 # paciorek.info
-Materials for http://paciorek.info
+Materials for http://paciorek.info.
